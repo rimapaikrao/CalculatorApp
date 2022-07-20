@@ -11,6 +11,7 @@ public static void main(String args[])
   mul=a*b;
   div=a/b;
   mod=a%b;
+  sum1=a+b;
  
   System.out.println("The sum of two numbers is " + sum );
  
